@@ -5,7 +5,7 @@ import arrowDown from "./Images/arrow_down.png";
 
 function Hero() {
   return (
-    <div className="Hero px-[320px] pb-[60px] pt-[100px] bg-slate-400">
+    <div className="Hero px-[320px] pb-[60px] pt-[100px] bg-slate-400 mb-[150px]">
       <div className="text-[#252733] text-center flex items-center flex-col">
         <h1 className="text-[48px] font-bold leading-[64px] mb-[16px]">
           Логістика, що рухає Україну <br /> вперед.
