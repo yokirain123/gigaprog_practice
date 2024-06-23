@@ -5,14 +5,14 @@ import arrowDown from "./Images/arrow_down.png";
 
 function Hero() {
   return (
-    <div className="Hero px-[320px] pb-[60px] pt-[100px] bg-slate-400 mb-[150px]">
+    <div className="Hero px-32 pb-15 pt-25 mb-38 bg-cover bg-center bg-[#c8ecfc]">
       <div className="text-[#252733] text-center flex items-center flex-col">
         <h1 className="text-[48px] font-bold leading-[64px] mb-[16px]">
           Логістика, що рухає Україну <br /> вперед.
         </h1>
 
         <p className="text-[20px] leading-[30px] mb-[65px]">
-          Відправте ваші вантажі із впевненістю – ми забезпечимо точне та <br/>
+          Відправте ваші вантажі із впевненістю – ми забезпечимо точне та <br />
           ефективне перевезення в межах всієї України.
         </p>
 

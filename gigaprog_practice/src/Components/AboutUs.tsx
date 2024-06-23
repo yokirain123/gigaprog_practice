@@ -5,7 +5,7 @@ import trucks from "./Images/trucks.png";
 
 function AboutUs() {
   return (
-    <div className="aboutUs">
+    <div className="aboutUs mb-[150px]">
       <div className="aboutUs flex gap-[95px] mb-[40px]">
         <img
           className="w-[980px] h-[440px] object-fill object-right relative ml-[-220px]"
