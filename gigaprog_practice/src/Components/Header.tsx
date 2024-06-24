@@ -34,10 +34,11 @@ function Header() {
           </ul>
         </div>
         <div className="partTwo flex flex-row items-center gap-[40px]">
-          <div className="dropdown flex flex-row items-center">
-            <p>UA</p>
+          <select className="dropdown flex flex-row items-center rounded-xl border-none">
+            <option value="">UA</option>
+            <option value="1">ENG</option>
             <IoIosArrowDown />
-          </div>
+          </select>
           <button className="w-[263px] h-[50px] bg-[#152892] rounded-[10px] font-semibold text-white">
             Сконтактувати
           </button>

@@ -8,13 +8,13 @@ function AboutUs() {
     <div className="aboutUs mb-[150px]">
       <div className="aboutUs flex gap-[95px] mb-[40px]">
         <img
-          className="w-[980px] h-[440px] object-fill object-right relative ml-[-220px]"
+          className="w-[980px] h-[440px] object-fill object-right relative lg:ml-[-220px] 2xl:ml-0"
           src={trucks}
           alt=""
         />
-        <div className="aboutInfo flex flex-col gap-[40px] px-[80px]">
+        <div className="aboutInfo flex flex-col gap-[40px] lg:px-0 2xl:px-[80px]">
           <h2 className="font-bold text-[40px]">Про нас</h2>
-          <p className="text-[#252733] text-[20px]">
+          <p className="text-[#252733] text-[20px] lg:pr-[100px] 2xl:pr-[200px]">
             У ATS ми об'єднуємо досвід та інновації, щоб забезпечити нашим
             клієнтам найвищий стандарт обслуговування в сфері логістики.
             <br />
@@ -62,7 +62,7 @@ function AboutUs() {
               <RxDoubleArrowRight className="text-[48px]" />
               <p className="stat-number font-bold">7+</p>
             </div>
-            <p className="stat-label flex ml-[2.8em] text-[24px] font-semibold mt-[16px]">
+            <p className="stat-label flex ml-[2.8em] text-[24px] font-semibold leading-[23px] mt-[16px]">
               Років <br/> на ринку
             </p>
           </div>
