@@ -13,7 +13,7 @@ function AboutUs() {
           alt=""
         />
         <div className="aboutInfo flex flex-col gap-[40px] lg:px-0 2xl:px-[80px]">
-          <h2 className="font-bold text-[40px]">Про нас</h2>
+          <h2 className="font-bold text-[40px] text-[#252733]">Про нас</h2>
           <p className="text-[#252733] text-[20px] lg:pr-[100px] 2xl:pr-[200px]">
             У ATS ми об'єднуємо досвід та інновації, щоб забезпечити нашим
             клієнтам найвищий стандарт обслуговування в сфері логістики.
