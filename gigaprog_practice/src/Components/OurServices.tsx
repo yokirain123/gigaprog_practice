@@ -28,7 +28,7 @@ const OurServices: React.FC = () => {
   const [selectedService, setSelectedService] = useState(services[0]);
 
   return (
-    <div className="ourServices relative">
+    <div className="ourServices relative mb-[180px]">
       <h2 className="font-bold text-[40px] text-center">Наші послуги</h2>
       <div className="services flex justify-center lg:pr-[185px] 2xl:px-[185px] py-[80px] ml-[200px]">
         <div className="images">
