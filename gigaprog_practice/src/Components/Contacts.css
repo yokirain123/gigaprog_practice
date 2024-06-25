@@ -1,0 +1,13 @@
+.gmnoprint gm-style-mtc-bbw {
+    visibility: hidden;
+}
+[role=menubar] {
+    visibility: hidden;
+}
+
+.gm-style button {
+    visibility: hidden;
+}
+.gmnoprint {
+    visibility: hidden;
+}
