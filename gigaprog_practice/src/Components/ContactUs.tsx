@@ -56,7 +56,7 @@ function ContactUs() {
         <button
           onClick={handleButtonClick}
           type="button"
-          className="w-full py-[14px] rounded-[10px] bg-[#152892] text-white font-semibold"
+          className="w-full py-[14px] rounded-[10px] bg-[#152892] hover:bg-[#112075] transition-all duration-300 text-white font-semibold"
         >
           Відправити
         </button>

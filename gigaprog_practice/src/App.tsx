@@ -9,6 +9,7 @@ import ContactUs from "./Components/ContactUs";
 import OurPros from "./Components/OurPros";
 import Reviews from "./Components/Reviews";
 import Contacts from "./Components/Contacts";
+import Footer from "./Components/Footer"
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <ContactUs/>
       <Reviews/>
       <Contacts/>
+      <Footer />
     </div>
   );
 }

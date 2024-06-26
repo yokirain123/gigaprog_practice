@@ -17,7 +17,7 @@ function Hero() {
           ефективне перевезення в межах всієї України.
         </p>
 
-        <button className="w-[433px] h-[50px] bg-[#152892] rounded-[10px] font-semibold text-white mb-[150px]">
+        <button className="w-[433px] h-[50px] bg-[#152892] hover:bg-[#112075] transition-all duration-300 rounded-[10px] font-semibold text-white mb-[150px]">
           Замовити перевезення
         </button>
         <img src={arrowDown} alt=""></img>

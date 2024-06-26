@@ -23,7 +23,7 @@ function AboutUs() {
             та робить все можливе, щоб забезпечити його безпечний та своєчасний
             перевіз.
           </p>
-          <button className="w-[260px] h-[50px] bg-[#152892] rounded-[10px] text-white font-semibold leading-[20px]">
+          <button className="w-[260px] h-[50px] bg-[#152892] hover:bg-[#112075] transition-all duration-300 rounded-[10px] text-white font-semibold leading-[20px]">
             Читати більше
           </button>
         </div>
